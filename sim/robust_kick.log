@@ -1,0 +1,6 @@
+lateral kick dv 0.05 m/s -> recovered
+lateral kick dv 0.1 m/s -> recovered
+lateral kick dv 0.2 m/s -> recovered
+lateral kick dv 0.3 m/s -> recovered
+lateral kick dv 0.5 m/s -> recovered
+lateral kick dv 0.8 m/s -> lost

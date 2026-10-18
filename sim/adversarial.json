@@ -1,0 +1,119 @@
+{
+ "baseline: dipole rotor (as in the design chart)": {
+  "stable": true,
+  "depth_cm": 3.622062203382469,
+  "offset_mm": 0.06635435057185865,
+  "decay": 0.32730649443129634
+ },
+ "exact finite-cylinder rotor field": {
+  "stable": true,
+  "depth_cm": 3.6604951383987503,
+  "offset_mm": 0.06379389363970894,
+  "decay": 0.31651714088969285
+ },
+ "cylinder rotor, tilt 8\u00b0 (\u00b12\u00b0 holder/magnetisation error)": {
+  "stable": false
+ },
+ "cylinder rotor, tilt 12\u00b0 (\u00b12\u00b0 holder/magnetisation error)": {
+  "stable": true,
+  "depth_cm": 3.40339277514576,
+  "offset_mm": 0.08491246167236381,
+  "decay": 0.3998009505807423
+ },
+ "cylinder rotor, Br 1.22 T (N38 .. N50 spread)": {
+  "stable": true,
+  "depth_cm": 3.501366112035105,
+  "offset_mm": 0.06702593692186792,
+  "decay": 0.33049940922677146
+ },
+ "cylinder rotor, Br 1.38 T (N38 .. N50 spread)": {
+  "stable": true,
+  "depth_cm": 3.819713408827701,
+  "offset_mm": 0.06069507322768842,
+  "decay": 0.3030930596214962
+ },
+ "floater Br 1.08 T (cheap N35 sphere, weaker)": {
+  "stable": true,
+  "depth_cm": 3.3869550464077753,
+  "offset_mm": 0.0720659584743226,
+  "decay": 0.35177417951118534
+ },
+ "rotor eccentricity 0.1 mm": {
+  "stable": true,
+  "depth_cm": 3.5646932994111222,
+  "offset_mm": 0.07065462280402625,
+  "decay": 0.34508193630213424
+ },
+ "rotor eccentricity 0.3 mm": {
+  "stable": true,
+  "depth_cm": 3.4662910874055375,
+  "offset_mm": 0.07884789726465188,
+  "decay": 0.37794950222262924
+ },
+ "motor stator iron (30% image dipole at +80 mm)": {
+  "stable": true,
+  "depth_cm": 3.6002617669587553,
+  "offset_mm": 0.06778420626450443,
+  "decay": 0.33329784909398047
+ },
+ "floater eddy currents x1 (k=6.79e-08 N m s/T^2)": {
+  "stable": true,
+  "depth_cm": 3.6233824648255184,
+  "offset_mm": 0.06625827931109432,
+  "decay": 0.32452593361147464
+ },
+ "floater eddy currents x10 (k=6.79e-07 N m s/T^2)": {
+  "stable": true,
+  "depth_cm": 3.635060600651163,
+  "offset_mm": 0.06541604532819574,
+  "decay": 0.2998570092689142
+ },
+ "all fluid drag x0.3": {
+  "stable": true,
+  "depth_cm": 3.622071468645162,
+  "offset_mm": 0.06635369753207666,
+  "decay": 0.09819107204417077
+ },
+ "all fluid drag x3.0": {
+  "stable": true,
+  "depth_cm": 3.6219807519769187,
+  "offset_mm": 0.06636009180059205,
+  "decay": 0.9819963864360738
+ },
+ "fluid swirl +10 rad/s (co-rotating +)": {
+  "stable": true,
+  "depth_cm": 3.6358182824252507,
+  "offset_mm": 0.06536186646974003,
+  "decay": 0.2386671888660885
+ },
+ "fluid swirl +40 rad/s (co-rotating +)": {
+  "stable": false,
+  "depth_cm": 3.679012727223104,
+  "growth": 0.4617850030984414
+ },
+ "fluid swirl +83 rad/s (co-rotating +)": {
+  "stable": false,
+  "depth_cm": 3.746848086011386,
+  "growth": 1.329690553846433
+ },
+ "fluid swirl -40 rad/s (co-rotating -)": {
+  "stable": false,
+  "depth_cm": 3.569844254882165,
+  "growth": 0.5089509372600389
+ },
+ "COMBINED: cyl 8\u00b0, Br1.22, iron, eddy, swirl 40, drag x0.5": {
+  "stable": false
+ },
+ "exact cylinder, 180 Hz": {
+  "stable": true,
+  "depth_cm": 4.202615630419205,
+  "offset_mm": 0.04556191686929959,
+  "decay": 0.2167315997963998
+ },
+ "exact cylinder, 240 Hz": {
+  "stable": true,
+  "depth_cm": 3.1493200875870575,
+  "offset_mm": 0.0801934488457978,
+  "decay": 0.4588560289752433
+ }
+}
