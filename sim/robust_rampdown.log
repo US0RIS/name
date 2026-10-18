@@ -1,0 +1,5 @@
+ramp 200->150 Hz in 2.0s: landed on floor
+ramp 200->120 Hz in 3.0s: landed on floor
+ramp 200->100 Hz in 3.0s: HIT ROTOR
+ramp 200->80 Hz in 4.0s: HIT ROTOR
+ramp 200->50 Hz in 4.0s: HIT ROTOR

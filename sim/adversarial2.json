@@ -1,0 +1,53 @@
+{
+ "water 200Hz a10": 19.84375,
+ "water 200Hz a12": 21.875,
+ "water 180Hz a15": 22.03125,
+ "50% glycerol 200Hz a10": 19.53125,
+ "80% glycerol 200Hz a10": 19.375,
+ "ekman_bulk_swirl_rad_s": 0.39021432491477365,
+ "floater_z_torque_uNm": 0.757181092394314,
+ "battery_alt": {
+  "cyl, tilt 12\u00b0, 200 Hz": {
+   "stable": true,
+   "depth_cm": 3.40339277514576,
+   "offset_mm": 0.08491246167236381,
+   "decay": 0.3998009505807423
+  },
+  "cyl, tilt 14\u00b0, 200 Hz": {
+   "stable": true,
+   "depth_cm": 3.260206908612017,
+   "offset_mm": 0.10042536392043296,
+   "decay": 0.44692455280016874
+  },
+  "cyl, tilt 16\u00b0, 200 Hz": {
+   "stable": true,
+   "depth_cm": 3.169886544949619,
+   "offset_mm": 0.1120207813609971,
+   "decay": 0.45584617619768486
+  },
+  "cyl, tilt 8\u00b0, re-tuned to 230 Hz": {
+   "stable": true,
+   "depth_cm": 3.617800926878592,
+   "offset_mm": 0.050585492908791274,
+   "decay": 0.29515445572123855
+  },
+  "cyl, tilt 8\u00b0, re-tuned to 250 Hz": {
+   "stable": true,
+   "depth_cm": 3.3336775024985075,
+   "offset_mm": 0.05914139215014268,
+   "decay": 0.3656766463595407
+  },
+  "COMBINED @a14: Br1.22, iron, eddy, swirl 8, drag x0.5, ecc 0.2": {
+   "stable": true,
+   "depth_cm": 3.130477923036551,
+   "offset_mm": 0.10374389156458473,
+   "decay": 0.21586350392482245
+  },
+  "COMBINED @a12: Br1.22, iron, eddy, swirl 8, drag x0.5, ecc 0.2": {
+   "stable": true,
+   "depth_cm": 3.2629007905657246,
+   "offset_mm": 0.08822183067685849,
+   "decay": 0.1858586289788775
+  }
+ }
+}

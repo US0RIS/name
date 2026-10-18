@@ -1,0 +1,38 @@
+{
+ "45Hz: at-speed, floater released mid-liquid 6.5 cm": [
+  "LEV 39.4mm",
+  "no (623.2)",
+  "LEV 39.5mm",
+  "LEV 39.4mm"
+ ],
+ "45Hz: at-speed, vessel lowered from +6 cm onto stand, floater mid": [
+  "LEV 39.4mm",
+  "LEV 39.5mm",
+  "LEV 39.5mm",
+  "LEV 39.5mm"
+ ],
+ "45Hz: spin-up 0->f in 2 s, floater on floor, mu=0.05 (PTFE)": [
+  "no (32.5)",
+  "no (32.5)",
+  "no (32.5)",
+  "no (32.5)"
+ ],
+ "60Hz: at-speed, floater released mid-liquid 6.5 cm": [
+  "no (372.7)",
+  "no (41.2)",
+  "no (648.9)",
+  "no (387.1)"
+ ],
+ "60Hz: at-speed, vessel lowered from +6 cm onto stand, floater mid": [
+  "no (40.1)",
+  "no (81.4)",
+  "no (169.8)",
+  "no (163.3)"
+ ],
+ "60Hz: spin-up 0->f in 2 s, floater on floor, mu=0.05 (PTFE)": [
+  "no (32.5)",
+  "no (32.5)",
+  "no (723.0)",
+  "no (749.0)"
+ ]
+}
